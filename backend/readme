@@ -1,0 +1,4 @@
+mongod
+
+npm run production
+./node_modules/.bin/pm2 monit
